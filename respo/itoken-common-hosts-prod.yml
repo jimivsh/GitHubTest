@@ -1,2 +1,3 @@
 hosts:
-  sso: http://192.168.25.130:8503
+  #sso: http://192.168.25.136:8503
+  sso: http://localhost:8503
